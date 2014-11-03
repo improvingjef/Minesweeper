@@ -1,8 +1,0 @@
-c:\code\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
-c:\code\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
-c:\code\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
-c:\code\Minesweeper\Minesweeper\bin\Debug\Minesweeper.Domain.dll
-c:\code\Minesweeper\Minesweeper\bin\Debug\Minesweeper.Domain.pdb
-c:\code\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
-c:\code\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
-c:\code\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb

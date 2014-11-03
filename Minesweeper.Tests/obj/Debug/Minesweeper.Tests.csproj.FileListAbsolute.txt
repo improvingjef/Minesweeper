@@ -1,9 +1,0 @@
-c:\code\Minesweeper\Minesweeper.Tests\bin\Debug\Minesweeper.Tests.dll
-c:\code\Minesweeper\Minesweeper.Tests\bin\Debug\Minesweeper.Tests.pdb
-c:\code\Minesweeper\Minesweeper.Tests\bin\Debug\nunit.framework.dll
-c:\code\Minesweeper\Minesweeper.Tests\bin\Debug\nunit.framework.xml
-c:\code\Minesweeper\Minesweeper.Tests\obj\Debug\Minesweeper.Tests.csprojResolveAssemblyReference.cache
-c:\code\Minesweeper\Minesweeper.Tests\obj\Debug\Minesweeper.Tests.dll
-c:\code\Minesweeper\Minesweeper.Tests\obj\Debug\Minesweeper.Tests.pdb
-c:\code\Minesweeper\Minesweeper.Tests\bin\Debug\Minesweeper.Domain.dll
-c:\code\Minesweeper\Minesweeper.Tests\bin\Debug\Minesweeper.Domain.pdb
