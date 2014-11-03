@@ -1,0 +1,5 @@
+c:\code\Minesweeper\Minesweeper.Domain\bin\Debug\Minesweeper.Domain.dll
+c:\code\Minesweeper\Minesweeper.Domain\bin\Debug\Minesweeper.Domain.pdb
+c:\code\Minesweeper\Minesweeper.Domain\obj\Debug\Minesweeper.Domain.csprojResolveAssemblyReference.cache
+c:\code\Minesweeper\Minesweeper.Domain\obj\Debug\Minesweeper.Domain.dll
+c:\code\Minesweeper\Minesweeper.Domain\obj\Debug\Minesweeper.Domain.pdb
