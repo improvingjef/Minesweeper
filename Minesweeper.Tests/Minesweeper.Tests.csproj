@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="nDumbster">
+      <HintPath>..\packages\nDumbster.1.0\lib\nDumbster.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.core">
       <HintPath>..\packages\NUnitTestAdapter.1.2\lib\nunit.core.dll</HintPath>
       <Private>False</Private>
@@ -62,6 +65,7 @@
     <Compile Include="MinesweeperConsoleViewTests.cs" />
     <Compile Include="MinesweeperGameTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmtpTests.cs" />
     <Compile Include="SquareTests.cs" />
     <Compile Include="GameStateTests.cs" />
     <Compile Include="UninitializedGameStateTests.cs" />

@@ -32,8 +32,8 @@ namespace Minesweeper.Domain
 
         private void DrawRow(int y)
         {
-            writer.Write(" ");
-            writer.Write(y);
+            var count = game.Rows.ToString().Length;
+            writer.Write(y.ToString().PadLeft(count + 1, ' '));
             writer.Write(" |");
 
             for (var x = 1; x <= game.Columns; x++)
@@ -135,7 +135,7 @@ namespace Minesweeper.Domain
         {
             while (game.IsOver == false)
             {
-                DrawUI();
+               DrawUI();
 
                 writer.WriteLine(" ");
                 writer.WriteLine("Mark (m), Uncover (u), or Quit (q)");
